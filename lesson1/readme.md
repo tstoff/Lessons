@@ -6,4 +6,10 @@
   * type npm -v and press Enter
     * your npm version should be displayed
 
+## Clone Repo from Github
+* Open Windows console and navigate to your workspace
+* Create a new folder called 'Lessons'
+* Enter that folder and clone the following Repository with:
+  * git clone https://github.com/tstoff/Lessons.git .
+
 ## Open index.html file in a browser and have fun ;-)
