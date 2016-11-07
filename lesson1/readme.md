@@ -5,6 +5,8 @@
     * your node version should be displayed
   * type npm -v and press Enter
     * your npm version should be displayed
+* Install git on your maschine
+* Create github account
 
 ## Clone Repo from Github
 * Open Windows console and navigate to your workspace
